@@ -10,7 +10,7 @@ const PERFUMES = [
     imagen: "img/odyssey.jpg",
     descripcion: "Una fragancia intensa y envolvente con apertura especiada y un fondo cálido y amaderado. Ideal para la noche, deja una estela potente y elegante.",
     notas: ["Bergamota", "Canela", "Cuero", "Ámbar", "Vainilla"],
-    precios: { "10ml": 250, "5ml": 150, "3ml": 100 }
+    precios: { "10ml": 150, "5ml": 80, "3ml": 60 }
   },
   {
     id: "bharara-king",
@@ -20,7 +20,7 @@ const PERFUMES = [
     imagen: "img/bharara.jpg",
     descripcion: "Fragancia masculina de carácter fuerte y sofisticado. Notas frutales al inicio que evolucionan hacia un corazón especiado y un fondo dulce con maderas nobles.",
     notas: ["Piña", "Bergamota", "Cardamomo", "Cuero", "Vainilla"],
-    precios: { "10ml": 300, "5ml": 180, "3ml": 120 }
+    precios: { "10ml": 220, "5ml": 110, "3ml": 70 }
   },
   {
     id: "le-male",
@@ -30,7 +30,7 @@ const PERFUMES = [
     imagen: "img/lemale.jpg",
     descripcion: "Una versión intensa y magnética del clásico. Combina lavanda fresca con vainilla bourbon y maderas cremosas, dejando una huella inolvidable.",
     notas: ["Lavanda", "Menta", "Vainilla", "Haba Tonka", "Madera de Sándalo"],
-    precios: { "10ml": 350, "5ml": 200, "3ml": 130 }
+    precios: { "10ml": 280, "5ml": 150, "3ml": 90 }
   },
   {
     id: "phantom",
