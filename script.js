@@ -81,6 +81,46 @@ const PERFUMES = [
     descripcion: "Una fragancia especiada y amaderada con un toque dulce y adictivo. Cardamomo y lavanda se mezclan con un fondo de vainilla y ámbar para una estela magnética.",
     notas: ["Cardamomo", "Lavanda", "Vainilla", "Ámbar", "Madera de Cedro"],
     precios: { "10ml": 280, "5ml": 140, "3ml": 100 }
+  },
+  {
+    id: "azzaro-wanted",
+    nombre: "AZZARO THE MOST WANTED",
+    marca: "Azzaro",
+    tag: "EAU DE PARFUM · INTENSE",
+    imagen: "img/azzaro-most-wanted.png",
+    descripcion: "Una fragancia especiada y amaderada con un toque dulce y adictivo. Cardamomo y lavanda se mezclan con un fondo de vainilla y ámbar para una estela magnética.",
+    notas: ["Cardamomo", "Lavanda", "Vainilla", "Ámbar", "Madera de Cedro"],
+    precios: { "10ml": 200, "5ml": 120, "3ml": 70 }
+  },
+  {
+    id: "le-male-elixir",
+    nombre: "LE MALE ELIXIR",
+    marca: "Jean Paul Gaultier",
+    tag: "LE PARFUM · ELIXIR",
+    imagen: "img/le-male-elixir.png",
+    descripcion: "Una fragancia dulce, cálida y embriagadora. Combina la frescura de la lavanda con la riqueza de la vainilla, el benjuí y la menta. De estela potente y sensual.",
+    notas: ["Lavanda", "Menta", "Vainilla", "Benjuí", "Haba Tonka"],
+    precios: { "10ml": 350, "5ml": 200, "3ml": 120 }
+  },
+  {
+    id: "afnan-9pm",
+    nombre: "9PM",
+    marca: "Afnan",
+    tag: "EAU DE PARFUM · MEN",
+    imagen: "img/9pm.jpg",
+    descripcion: "Una fragancia dulce y especiada, famosa por su parecido con los grandes clásicos. Manzana, canela y lavanda se fusionan en un fondo cálido de vainilla y haba tonka.",
+    notas: ["Manzana", "Canela", "Lavanda", "Vainilla", "Haba Tonka"],
+    precios: { "10ml": 150, "5ml": 80, "3ml": 45 }
+  },
+  {
+    id: "odyssey-black",
+    nombre: "ODYSSEY BLACK FOREST",
+    marca: "Odyssey",
+    tag: "EAU DE PARFUM · GOURMAND",
+    imagen: "img/odyssey-black.png",
+    descripcion: "Una fragancia gourmand intensa y deliciosa. Cereza negra, chocolate y especias se combinan para crear una experiencia cálida y misteriosa, ideal para climas fríos.",
+    notas: ["Cereza Negra", "Chocolate", "Canela", "Vainilla", "Anís"],
+    precios: { "10ml": 180, "5ml": 90, "3ml": 60 }
   }
 ];
 
